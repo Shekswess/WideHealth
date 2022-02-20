@@ -44,4 +44,5 @@ XGBoost and cr-features libraries.
 ## https://www.kaggle.com/c/winter-school-2022-ar-challenge/overview/evaluation
 ## https://widehealth.eu/winter-school-pervasive-technologies/
 
+P.S the train and filtered train data need to be added or find them on kaggle
 
